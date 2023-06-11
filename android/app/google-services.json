@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380399304201",
+    "project_id": "mobilelanjut-c076a",
+    "storage_bucket": "mobilelanjut-c076a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380399304201:android:ef58964a5a0f4f739b42d8",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwFSbHaJGVxM5WM85CXdgIAO7EJ5FqC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
